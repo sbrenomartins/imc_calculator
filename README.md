@@ -24,6 +24,10 @@
     ·
     <a href="https://github.com/sbrenomartins/imc_calculator/issues">Request Feature</a>
   </p>
+  
+  <p align="center">
+    <img src="./imc.gif" width="250px;" />
+  </p>
 </p>
 
 
@@ -43,12 +47,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project 🔥
-
-<p align="center">
-  <img src="./imc.gif" width="250px;" />
-</p>
-
+# About The Project 🔥
 
 ## Built With 👷‍♀️
 
