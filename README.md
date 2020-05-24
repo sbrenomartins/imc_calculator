@@ -1,7 +1,3 @@
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
@@ -88,14 +84,6 @@ Project Link: [https://github.com/sbrenomartins/imc_calculator](https://github.c
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/sbrenomartins/Best-README-Template.svg?style=flat-square
-[contributors-url]: https://github.com/sbrenomartins/imc_calculator/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/sbrenomartins/Best-README-Template.svg?style=flat-square
-[forks-url]: https://github.com/sbrenomartins/imc_calculator/network/members
-[stars-shield]: https://img.shields.io/github/stars/sbrenomartins/Best-README-Template.svg?style=flat-square
-[stars-url]: https://github.com/sbrenomartins/imc_calculator/stargazers
-[issues-shield]: https://img.shields.io/github/issues/sbrenomartins/Best-README-Template.svg?style=flat-square
-[issues-url]: https://github.com/sbrenomartins/imc_calculator/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/breno-m-silva
 [product-screenshot]: ./imc.gif 
